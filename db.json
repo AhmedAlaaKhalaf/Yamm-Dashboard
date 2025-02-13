@@ -1,0 +1,16 @@
+{
+    "orders": [
+      {
+        "id": "1",
+        "reason": "Defective item",
+        "store_name": "Apple",
+        "store_url": "https://apple.com",
+        "amount": 150.5,
+        "active": true,
+        "decision": null,
+        "items": [
+          { "name": "Laptop", "id": "a1", "price": 1000, "quantity": 1 }
+        ]
+      }
+    ]
+  }
